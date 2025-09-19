@@ -27,10 +27,10 @@ Ele permite gerenciar **pedidos, comandas, funcionários e pagamentos** em uma i
 
 ## 📷 Pré-visualização
 
-![Preview 1](https://prnt.sc/LWhd8Wn19J_8.png)  
-![Preview 2](https://prnt.sc/9PocAd9EloWr.png)
-https://i.ibb.co/2YChbk2j/Screenshot-96.png
-https://i.ibb.co/6cJzHd64/Screenshot-95.png
+![Preview 1](https://i.ibb.co/2YChbk2j/Screenshot-96.png)  
+![Preview 2](https://i.ibb.co/6cJzHd64/Screenshot-95.png)
+
+
 ---
 
 💡 Desenvolvido com dedicação para tornar o atendimento mais rápido e eficiente.
