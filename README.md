@@ -27,8 +27,8 @@ Ele permite gerenciar **pedidos, comandas, funcionários e pagamentos** em uma i
 
 ## 📷 Pré-visualização
 
-![Preview 1](https://prnt.sc/LWhd8Wn19J_8)  
-![Preview 2](https://prnt.sc/9PocAd9EloWr)
+![Preview 1](https://prnt.sc/LWhd8Wn19J_8.png)  
+![Preview 2](https://prnt.sc/9PocAd9EloWr.png)
 
 ---
 
