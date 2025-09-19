@@ -7,7 +7,7 @@ Ele permite gerenciar **pedidos, comandas, funcionários e pagamentos** em uma i
 - **Node.js** + **Express** → Backend e API  
 - **MongoDB** → Banco de dados  
 - **React (JSX)** → Frontend dinâmico e responsivo  
-- **Electron (opcional)** → Versão desktop com suporte a impressão  
+- **Electron** → Versão desktop com suporte a impressão  
 - **ESC/POS** → Integração com impressoras térmicas  
 
 ## 📌 Funcionalidades
